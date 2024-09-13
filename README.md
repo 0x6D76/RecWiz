@@ -19,3 +19,8 @@ The built-in scan engine will probe the target mulitple times for different ends
 * **Network Security Audits:** Aid organizations in performing thorough security audits, identifying vulnerabilities and weaknesses in their infrastructure.
 * **Vulnerability Management and Compliance:** Help security teams manage and track vulnerabilities, ensuring compliance with security standards and regulations.
 * **Educational Resource:** Serve as a learning tool for students and professionals to understand network reconnaissance techniques and best practices.
+
+## Usage
+
+*./reconWizard 127.0.0.1*
+*./reconwizard localhost*
